@@ -49,7 +49,6 @@ for color in colorsArray:
     hsbValues = hsbValue.split(',')
     colorJson = {colorName: {'hue': int(hsbValues[0].strip()), 'sat': int(hsbValues[1].strip()), 'bri': int(hsbValues[2].strip())}}
 
-    print(colorJson)
     colorsJson.append(colorJson)
 
 with open('colors.json', 'w') as out:
