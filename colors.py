@@ -47,7 +47,7 @@ for color in colorsArray:
     hsbValue = soup.find("input", {"id": "HSB"}).get('value')
 
     hsbValues = hsbValue.split(',')
-    colorJson = {colorName: {'hue': int(hsbValues[0].strip()), 'sat': int(hsbValues[1].strip()), 'bri': int(hsbValues[2].strip())}}
+    colorJson = {"name": colorName, 'hue': int(hsbValues[0].strip()), 'sat': int(hsbValues[1].strip()), 'bri': int(hsbValues[2].strip())}
 
     colorsJson.append(colorJson)
 

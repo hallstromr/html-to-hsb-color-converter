@@ -1,982 +1,842 @@
 [
     {
-        "aliceblue": {
-            "hue": 208,
-            "sat": 6,
-            "bri": 100
-        }
+        "name": "aliceblue",
+        "hue": 208,
+        "sat": 6,
+        "bri": 100
     },
     {
-        "darkolivegreen": {
-            "hue": 82,
-            "sat": 56,
-            "bri": 42
-        }
+        "name": "darkolivegreen",
+        "hue": 82,
+        "sat": 56,
+        "bri": 42
     },
     {
-        "indigo": {
-            "hue": 275,
-            "sat": 100,
-            "bri": 51
-        }
+        "name": "indigo",
+        "hue": 275,
+        "sat": 100,
+        "bri": 51
     },
     {
-        "mediumpurple": {
-            "hue": 260,
-            "sat": 49,
-            "bri": 86
-        }
+        "name": "mediumpurple",
+        "hue": 260,
+        "sat": 49,
+        "bri": 86
     },
     {
-        "purple": {
-            "hue": 300,
-            "sat": 100,
-            "bri": 50
-        }
+        "name": "purple",
+        "hue": 300,
+        "sat": 100,
+        "bri": 50
     },
     {
-        "antiquewhite": {
-            "hue": 34,
-            "sat": 14,
-            "bri": 98
-        }
+        "name": "antiquewhite",
+        "hue": 34,
+        "sat": 14,
+        "bri": 98
     },
     {
-        "darkorange": {
-            "hue": 33,
-            "sat": 100,
-            "bri": 100
-        }
+        "name": "darkorange",
+        "hue": 33,
+        "sat": 100,
+        "bri": 100
     },
     {
-        "ivory": {
-            "hue": 60,
-            "sat": 6,
-            "bri": 100
-        }
+        "name": "ivory",
+        "hue": 60,
+        "sat": 6,
+        "bri": 100
     },
     {
-        "mediumseagreen": {
-            "hue": 147,
-            "sat": 66,
-            "bri": 70
-        }
+        "name": "mediumseagreen",
+        "hue": 147,
+        "sat": 66,
+        "bri": 70
     },
     {
-        "red": {
-            "hue": 0,
-            "sat": 100,
-            "bri": 100
-        }
+        "name": "red",
+        "hue": 0,
+        "sat": 100,
+        "bri": 100
     },
     {
-        "aqua": {
-            "hue": 180,
-            "sat": 100,
-            "bri": 100
-        }
+        "name": "aqua",
+        "hue": 180,
+        "sat": 100,
+        "bri": 100
     },
     {
-        "darkorchid": {
-            "hue": 280,
-            "sat": 75,
-            "bri": 80
-        }
+        "name": "darkorchid",
+        "hue": 280,
+        "sat": 75,
+        "bri": 80
     },
     {
-        "khaki": {
-            "hue": 54,
-            "sat": 42,
-            "bri": 94
-        }
+        "name": "khaki",
+        "hue": 54,
+        "sat": 42,
+        "bri": 94
     },
     {
-        "mediumslateblue": {
-            "hue": 249,
-            "sat": 56,
-            "bri": 93
-        }
+        "name": "mediumslateblue",
+        "hue": 249,
+        "sat": 56,
+        "bri": 93
     },
     {
-        "rosybrown": {
-            "hue": 0,
-            "sat": 24,
-            "bri": 74
-        }
+        "name": "rosybrown",
+        "hue": 0,
+        "sat": 24,
+        "bri": 74
     },
     {
-        "aquamarine": {
-            "hue": 160,
-            "sat": 50,
-            "bri": 100
-        }
+        "name": "aquamarine",
+        "hue": 160,
+        "sat": 50,
+        "bri": 100
     },
     {
-        "darkred": {
-            "hue": 0,
-            "sat": 100,
-            "bri": 55
-        }
+        "name": "darkred",
+        "hue": 0,
+        "sat": 100,
+        "bri": 55
     },
     {
-        "lavender": {
-            "hue": 240,
-            "sat": 8,
-            "bri": 98
-        }
+        "name": "lavender",
+        "hue": 240,
+        "sat": 8,
+        "bri": 98
     },
     {
-        "mediumspringgreen": {
-            "hue": 157,
-            "sat": 100,
-            "bri": 98
-        }
+        "name": "mediumspringgreen",
+        "hue": 157,
+        "sat": 100,
+        "bri": 98
     },
     {
-        "royalblue": {
-            "hue": 225,
-            "sat": 71,
-            "bri": 88
-        }
+        "name": "royalblue",
+        "hue": 225,
+        "sat": 71,
+        "bri": 88
     },
     {
-        "azure": {
-            "hue": 180,
-            "sat": 6,
-            "bri": 100
-        }
+        "name": "azure",
+        "hue": 180,
+        "sat": 6,
+        "bri": 100
     },
     {
-        "darksalmon": {
-            "hue": 15,
-            "sat": 48,
-            "bri": 91
-        }
+        "name": "darksalmon",
+        "hue": 15,
+        "sat": 48,
+        "bri": 91
     },
     {
-        "lavenderblush": {
-            "hue": 340,
-            "sat": 6,
-            "bri": 100
-        }
+        "name": "lavenderblush",
+        "hue": 340,
+        "sat": 6,
+        "bri": 100
     },
     {
-        "mediumturquoise": {
-            "hue": 178,
-            "sat": 66,
-            "bri": 82
-        }
+        "name": "mediumturquoise",
+        "hue": 178,
+        "sat": 66,
+        "bri": 82
     },
     {
-        "saddlebrown": {
-            "hue": 25,
-            "sat": 86,
-            "bri": 55
-        }
+        "name": "saddlebrown",
+        "hue": 25,
+        "sat": 86,
+        "bri": 55
     },
     {
-        "beige": {
-            "hue": 60,
-            "sat": 10,
-            "bri": 96
-        }
+        "name": "beige",
+        "hue": 60,
+        "sat": 10,
+        "bri": 96
     },
     {
-        "darkseagreen": {
-            "hue": 115,
-            "sat": 26,
-            "bri": 74
-        }
+        "name": "darkseagreen",
+        "hue": 115,
+        "sat": 26,
+        "bri": 74
     },
     {
-        "lawngreen": {
-            "hue": 90,
-            "sat": 100,
-            "bri": 99
-        }
+        "name": "lawngreen",
+        "hue": 90,
+        "sat": 100,
+        "bri": 99
     },
     {
-        "mediumvioletred": {
-            "hue": 322,
-            "sat": 89,
-            "bri": 78
-        }
+        "name": "mediumvioletred",
+        "hue": 322,
+        "sat": 89,
+        "bri": 78
     },
     {
-        "salmon": {
-            "hue": 6,
-            "sat": 54,
-            "bri": 98
-        }
+        "name": "salmon",
+        "hue": 6,
+        "sat": 54,
+        "bri": 98
     },
     {
-        "bisque": {
-            "hue": 33,
-            "sat": 23,
-            "bri": 100
-        }
+        "name": "bisque",
+        "hue": 33,
+        "sat": 23,
+        "bri": 100
     },
     {
-        "darkslateblue": {
-            "hue": 248,
-            "sat": 56,
-            "bri": 55
-        }
+        "name": "darkslateblue",
+        "hue": 248,
+        "sat": 56,
+        "bri": 55
     },
     {
-        "lemonchiffon": {
-            "hue": 54,
-            "sat": 20,
-            "bri": 100
-        }
+        "name": "lemonchiffon",
+        "hue": 54,
+        "sat": 20,
+        "bri": 100
     },
     {
-        "midnightblue": {
-            "hue": 240,
-            "sat": 78,
-            "bri": 44
-        }
+        "name": "midnightblue",
+        "hue": 240,
+        "sat": 78,
+        "bri": 44
     },
     {
-        "sandybrown": {
-            "hue": 28,
-            "sat": 61,
-            "bri": 96
-        }
+        "name": "sandybrown",
+        "hue": 28,
+        "sat": 61,
+        "bri": 96
     },
     {
-        "black": {
-            "hue": 0,
-            "sat": 0,
-            "bri": 0
-        }
+        "name": "black",
+        "hue": 0,
+        "sat": 0,
+        "bri": 0
     },
     {
-        "darkslategray": {
-            "hue": 180,
-            "sat": 41,
-            "bri": 31
-        }
+        "name": "darkslategray",
+        "hue": 180,
+        "sat": 41,
+        "bri": 31
     },
     {
-        "lightblue": {
-            "hue": 195,
-            "sat": 25,
-            "bri": 90
-        }
+        "name": "lightblue",
+        "hue": 195,
+        "sat": 25,
+        "bri": 90
     },
     {
-        "mintcream": {
-            "hue": 150,
-            "sat": 4,
-            "bri": 100
-        }
+        "name": "mintcream",
+        "hue": 150,
+        "sat": 4,
+        "bri": 100
     },
     {
-        "seagreen": {
-            "hue": 146,
-            "sat": 67,
-            "bri": 55
-        }
+        "name": "seagreen",
+        "hue": 146,
+        "sat": 67,
+        "bri": 55
     },
     {
-        "blanchedalmond": {
-            "hue": 36,
-            "sat": 20,
-            "bri": 100
-        }
+        "name": "blanchedalmond",
+        "hue": 36,
+        "sat": 20,
+        "bri": 100
     },
     {
-        "darkturquoise": {
-            "hue": 181,
-            "sat": 100,
-            "bri": 82
-        }
+        "name": "darkturquoise",
+        "hue": 181,
+        "sat": 100,
+        "bri": 82
     },
     {
-        "lightcoral": {
-            "hue": 0,
-            "sat": 47,
-            "bri": 94
-        }
+        "name": "lightcoral",
+        "hue": 0,
+        "sat": 47,
+        "bri": 94
     },
     {
-        "mistyrose": {
-            "hue": 6,
-            "sat": 12,
-            "bri": 100
-        }
+        "name": "mistyrose",
+        "hue": 6,
+        "sat": 12,
+        "bri": 100
     },
     {
-        "seashell": {
-            "hue": 25,
-            "sat": 7,
-            "bri": 100
-        }
+        "name": "seashell",
+        "hue": 25,
+        "sat": 7,
+        "bri": 100
     },
     {
-        "blue": {
-            "hue": 240,
-            "sat": 100,
-            "bri": 100
-        }
+        "name": "blue",
+        "hue": 240,
+        "sat": 100,
+        "bri": 100
     },
     {
-        "darkviolet": {
-            "hue": 282,
-            "sat": 100,
-            "bri": 83
-        }
+        "name": "darkviolet",
+        "hue": 282,
+        "sat": 100,
+        "bri": 83
     },
     {
-        "lightcyan": {
-            "hue": 180,
-            "sat": 12,
-            "bri": 100
-        }
+        "name": "lightcyan",
+        "hue": 180,
+        "sat": 12,
+        "bri": 100
     },
     {
-        "moccasin": {
-            "hue": 38,
-            "sat": 29,
-            "bri": 100
-        }
+        "name": "moccasin",
+        "hue": 38,
+        "sat": 29,
+        "bri": 100
     },
     {
-        "sienna": {
-            "hue": 19,
-            "sat": 72,
-            "bri": 63
-        }
+        "name": "sienna",
+        "hue": 19,
+        "sat": 72,
+        "bri": 63
     },
     {
-        "blueviolet": {
-            "hue": 271,
-            "sat": 81,
-            "bri": 89
-        }
+        "name": "blueviolet",
+        "hue": 271,
+        "sat": 81,
+        "bri": 89
     },
     {
-        "deeppink": {
-            "hue": 328,
-            "sat": 92,
-            "bri": 100
-        }
+        "name": "deeppink",
+        "hue": 328,
+        "sat": 92,
+        "bri": 100
     },
     {
-        "lightgoldenrodyellow": {
-            "hue": 60,
-            "sat": 16,
-            "bri": 98
-        }
+        "name": "lightgoldenrodyellow",
+        "hue": 60,
+        "sat": 16,
+        "bri": 98
     },
     {
-        "navajowhite": {
-            "hue": 36,
-            "sat": 32,
-            "bri": 100
-        }
+        "name": "navajowhite",
+        "hue": 36,
+        "sat": 32,
+        "bri": 100
     },
     {
-        "silver": {
-            "hue": 0,
-            "sat": 0,
-            "bri": 75
-        }
+        "name": "silver",
+        "hue": 0,
+        "sat": 0,
+        "bri": 75
     },
     {
-        "brown": {
-            "hue": 0,
-            "sat": 75,
-            "bri": 65
-        }
+        "name": "brown",
+        "hue": 0,
+        "sat": 75,
+        "bri": 65
     },
     {
-        "deepskyblue": {
-            "hue": 195,
-            "sat": 100,
-            "bri": 100
-        }
+        "name": "deepskyblue",
+        "hue": 195,
+        "sat": 100,
+        "bri": 100
     },
     {
-        "lightgray": {
-            "hue": 0,
-            "sat": 0,
-            "bri": 83
-        }
+        "name": "lightgray",
+        "hue": 0,
+        "sat": 0,
+        "bri": 83
     },
     {
-        "navy": {
-            "hue": 240,
-            "sat": 100,
-            "bri": 50
-        }
+        "name": "navy",
+        "hue": 240,
+        "sat": 100,
+        "bri": 50
     },
     {
-        "skyblue": {
-            "hue": 197,
-            "sat": 43,
-            "bri": 92
-        }
+        "name": "skyblue",
+        "hue": 197,
+        "sat": 43,
+        "bri": 92
     },
     {
-        "burlywood": {
-            "hue": 34,
-            "sat": 39,
-            "bri": 87
-        }
+        "name": "burlywood",
+        "hue": 34,
+        "sat": 39,
+        "bri": 87
     },
     {
-        "dimgray": {
-            "hue": 0,
-            "sat": 0,
-            "bri": 41
-        }
+        "name": "dimgray",
+        "hue": 0,
+        "sat": 0,
+        "bri": 41
     },
     {
-        "lightgreen": {
-            "hue": 120,
-            "sat": 39,
-            "bri": 93
-        }
+        "name": "lightgreen",
+        "hue": 120,
+        "sat": 39,
+        "bri": 93
     },
     {
-        "oldlace": {
-            "hue": 39,
-            "sat": 9,
-            "bri": 99
-        }
+        "name": "oldlace",
+        "hue": 39,
+        "sat": 9,
+        "bri": 99
     },
     {
-        "slateblue": {
-            "hue": 248,
-            "sat": 56,
-            "bri": 80
-        }
+        "name": "slateblue",
+        "hue": 248,
+        "sat": 56,
+        "bri": 80
     },
     {
-        "cadetblue": {
-            "hue": 182,
-            "sat": 41,
-            "bri": 63
-        }
+        "name": "cadetblue",
+        "hue": 182,
+        "sat": 41,
+        "bri": 63
     },
     {
-        "dodgerblue": {
-            "hue": 210,
-            "sat": 88,
-            "bri": 100
-        }
+        "name": "dodgerblue",
+        "hue": 210,
+        "sat": 88,
+        "bri": 100
     },
     {
-        "lightpink": {
-            "hue": 351,
-            "sat": 29,
-            "bri": 100
-        }
+        "name": "lightpink",
+        "hue": 351,
+        "sat": 29,
+        "bri": 100
     },
     {
-        "olive": {
-            "hue": 60,
-            "sat": 100,
-            "bri": 50
-        }
+        "name": "olive",
+        "hue": 60,
+        "sat": 100,
+        "bri": 50
     },
     {
-        "slategray": {
-            "hue": 210,
-            "sat": 22,
-            "bri": 56
-        }
+        "name": "slategray",
+        "hue": 210,
+        "sat": 22,
+        "bri": 56
     },
     {
-        "chartreuse": {
-            "hue": 90,
-            "sat": 100,
-            "bri": 100
-        }
+        "name": "chartreuse",
+        "hue": 90,
+        "sat": 100,
+        "bri": 100
     },
     {
-        "firebrick": {
-            "hue": 0,
-            "sat": 81,
-            "bri": 70
-        }
+        "name": "firebrick",
+        "hue": 0,
+        "sat": 81,
+        "bri": 70
     },
     {
-        "lightsalmon": {
-            "hue": 17,
-            "sat": 52,
-            "bri": 100
-        }
+        "name": "lightsalmon",
+        "hue": 17,
+        "sat": 52,
+        "bri": 100
     },
     {
-        "olivedrab": {
-            "hue": 80,
-            "sat": 75,
-            "bri": 56
-        }
+        "name": "olivedrab",
+        "hue": 80,
+        "sat": 75,
+        "bri": 56
     },
     {
-        "snow": {
-            "hue": 0,
-            "sat": 2,
-            "bri": 100
-        }
+        "name": "snow",
+        "hue": 0,
+        "sat": 2,
+        "bri": 100
     },
     {
-        "chocolate": {
-            "hue": 25,
-            "sat": 86,
-            "bri": 82
-        }
+        "name": "chocolate",
+        "hue": 25,
+        "sat": 86,
+        "bri": 82
     },
     {
-        "floralwhite": {
-            "hue": 40,
-            "sat": 6,
-            "bri": 100
-        }
+        "name": "floralwhite",
+        "hue": 40,
+        "sat": 6,
+        "bri": 100
     },
     {
-        "lightseagreen": {
-            "hue": 177,
-            "sat": 82,
-            "bri": 70
-        }
+        "name": "lightseagreen",
+        "hue": 177,
+        "sat": 82,
+        "bri": 70
     },
     {
-        "orange": {
-            "hue": 39,
-            "sat": 100,
-            "bri": 100
-        }
+        "name": "orange",
+        "hue": 39,
+        "sat": 100,
+        "bri": 100
     },
     {
-        "springgreen": {
-            "hue": 150,
-            "sat": 100,
-            "bri": 100
-        }
+        "name": "springgreen",
+        "hue": 150,
+        "sat": 100,
+        "bri": 100
     },
     {
-        "coral": {
-            "hue": 16,
-            "sat": 69,
-            "bri": 100
-        }
+        "name": "coral",
+        "hue": 16,
+        "sat": 69,
+        "bri": 100
     },
     {
-        "forestgreen": {
-            "hue": 120,
-            "sat": 76,
-            "bri": 55
-        }
+        "name": "forestgreen",
+        "hue": 120,
+        "sat": 76,
+        "bri": 55
     },
     {
-        "lightskyblue": {
-            "hue": 203,
-            "sat": 46,
-            "bri": 98
-        }
+        "name": "lightskyblue",
+        "hue": 203,
+        "sat": 46,
+        "bri": 98
     },
     {
-        "orangered": {
-            "hue": 16,
-            "sat": 100,
-            "bri": 100
-        }
+        "name": "orangered",
+        "hue": 16,
+        "sat": 100,
+        "bri": 100
     },
     {
-        "steelblue": {
-            "hue": 207,
-            "sat": 61,
-            "bri": 71
-        }
+        "name": "steelblue",
+        "hue": 207,
+        "sat": 61,
+        "bri": 71
     },
     {
-        "cornflowerblue": {
-            "hue": 219,
-            "sat": 58,
-            "bri": 93
-        }
+        "name": "cornflowerblue",
+        "hue": 219,
+        "sat": 58,
+        "bri": 93
     },
     {
-        "fuchsia": {
-            "hue": 300,
-            "sat": 100,
-            "bri": 100
-        }
+        "name": "fuchsia",
+        "hue": 300,
+        "sat": 100,
+        "bri": 100
     },
     {
-        "lightslategray": {
-            "hue": 210,
-            "sat": 22,
-            "bri": 60
-        }
+        "name": "lightslategray",
+        "hue": 210,
+        "sat": 22,
+        "bri": 60
     },
     {
-        "orchid": {
-            "hue": 302,
-            "sat": 49,
-            "bri": 85
-        }
+        "name": "orchid",
+        "hue": 302,
+        "sat": 49,
+        "bri": 85
     },
     {
-        "tan": {
-            "hue": 34,
-            "sat": 33,
-            "bri": 82
-        }
+        "name": "tan",
+        "hue": 34,
+        "sat": 33,
+        "bri": 82
     },
     {
-        "cornsilk": {
-            "hue": 48,
-            "sat": 14,
-            "bri": 100
-        }
+        "name": "cornsilk",
+        "hue": 48,
+        "sat": 14,
+        "bri": 100
     },
     {
-        "gainsboro": {
-            "hue": 0,
-            "sat": 0,
-            "bri": 86
-        }
+        "name": "gainsboro",
+        "hue": 0,
+        "sat": 0,
+        "bri": 86
     },
     {
-        "lightsteelblue": {
-            "hue": 214,
-            "sat": 21,
-            "bri": 87
-        }
+        "name": "lightsteelblue",
+        "hue": 214,
+        "sat": 21,
+        "bri": 87
     },
     {
-        "palegoldenrod": {
-            "hue": 55,
-            "sat": 29,
-            "bri": 93
-        }
+        "name": "palegoldenrod",
+        "hue": 55,
+        "sat": 29,
+        "bri": 93
     },
     {
-        "teal": {
-            "hue": 180,
-            "sat": 100,
-            "bri": 50
-        }
+        "name": "teal",
+        "hue": 180,
+        "sat": 100,
+        "bri": 50
     },
     {
-        "crimson": {
-            "hue": 348,
-            "sat": 91,
-            "bri": 86
-        }
+        "name": "crimson",
+        "hue": 348,
+        "sat": 91,
+        "bri": 86
     },
     {
-        "ghostwhite": {
-            "hue": 240,
-            "sat": 3,
-            "bri": 100
-        }
+        "name": "ghostwhite",
+        "hue": 240,
+        "sat": 3,
+        "bri": 100
     },
     {
-        "lightyellow": {
-            "hue": 60,
-            "sat": 12,
-            "bri": 100
-        }
+        "name": "lightyellow",
+        "hue": 60,
+        "sat": 12,
+        "bri": 100
     },
     {
-        "palegreen": {
-            "hue": 120,
-            "sat": 39,
-            "bri": 98
-        }
+        "name": "palegreen",
+        "hue": 120,
+        "sat": 39,
+        "bri": 98
     },
     {
-        "thistle": {
-            "hue": 300,
-            "sat": 12,
-            "bri": 85
-        }
+        "name": "thistle",
+        "hue": 300,
+        "sat": 12,
+        "bri": 85
     },
     {
-        "cyan": {
-            "hue": 180,
-            "sat": 100,
-            "bri": 100
-        }
+        "name": "cyan",
+        "hue": 180,
+        "sat": 100,
+        "bri": 100
     },
     {
-        "gold": {
-            "hue": 51,
-            "sat": 100,
-            "bri": 100
-        }
+        "name": "gold",
+        "hue": 51,
+        "sat": 100,
+        "bri": 100
     },
     {
-        "lime": {
-            "hue": 120,
-            "sat": 100,
-            "bri": 100
-        }
+        "name": "lime",
+        "hue": 120,
+        "sat": 100,
+        "bri": 100
     },
     {
-        "paleturquoise": {
-            "hue": 180,
-            "sat": 26,
-            "bri": 93
-        }
+        "name": "paleturquoise",
+        "hue": 180,
+        "sat": 26,
+        "bri": 93
     },
     {
-        "tomato": {
-            "hue": 9,
-            "sat": 72,
-            "bri": 100
-        }
+        "name": "tomato",
+        "hue": 9,
+        "sat": 72,
+        "bri": 100
     },
     {
-        "darkblue": {
-            "hue": 240,
-            "sat": 100,
-            "bri": 55
-        }
+        "name": "darkblue",
+        "hue": 240,
+        "sat": 100,
+        "bri": 55
     },
     {
-        "goldenrod": {
-            "hue": 43,
-            "sat": 85,
-            "bri": 85
-        }
+        "name": "goldenrod",
+        "hue": 43,
+        "sat": 85,
+        "bri": 85
     },
     {
-        "limegreen": {
-            "hue": 120,
-            "sat": 76,
-            "bri": 80
-        }
+        "name": "limegreen",
+        "hue": 120,
+        "sat": 76,
+        "bri": 80
     },
     {
-        "palevioletred": {
-            "hue": 340,
-            "sat": 49,
-            "bri": 86
-        }
+        "name": "palevioletred",
+        "hue": 340,
+        "sat": 49,
+        "bri": 86
     },
     {
-        "turquoise": {
-            "hue": 174,
-            "sat": 71,
-            "bri": 88
-        }
+        "name": "turquoise",
+        "hue": 174,
+        "sat": 71,
+        "bri": 88
     },
     {
-        "darkcyan": {
-            "hue": 180,
-            "sat": 100,
-            "bri": 55
-        }
+        "name": "darkcyan",
+        "hue": 180,
+        "sat": 100,
+        "bri": 55
     },
     {
-        "gray": {
-            "hue": 0,
-            "sat": 0,
-            "bri": 50
-        }
+        "name": "gray",
+        "hue": 0,
+        "sat": 0,
+        "bri": 50
     },
     {
-        "linen": {
-            "hue": 30,
-            "sat": 8,
-            "bri": 98
-        }
+        "name": "linen",
+        "hue": 30,
+        "sat": 8,
+        "bri": 98
     },
     {
-        "papayawhip": {
-            "hue": 37,
-            "sat": 16,
-            "bri": 100
-        }
+        "name": "papayawhip",
+        "hue": 37,
+        "sat": 16,
+        "bri": 100
     },
     {
-        "violet": {
-            "hue": 300,
-            "sat": 45,
-            "bri": 93
-        }
+        "name": "violet",
+        "hue": 300,
+        "sat": 45,
+        "bri": 93
     },
     {
-        "darkgoldenrod": {
-            "hue": 43,
-            "sat": 94,
-            "bri": 72
-        }
+        "name": "darkgoldenrod",
+        "hue": 43,
+        "sat": 94,
+        "bri": 72
     },
     {
-        "green": {
-            "hue": 120,
-            "sat": 100,
-            "bri": 50
-        }
+        "name": "green",
+        "hue": 120,
+        "sat": 100,
+        "bri": 50
     },
     {
-        "magenta": {
-            "hue": 300,
-            "sat": 100,
-            "bri": 100
-        }
+        "name": "magenta",
+        "hue": 300,
+        "sat": 100,
+        "bri": 100
     },
     {
-        "peachpuff": {
-            "hue": 28,
-            "sat": 27,
-            "bri": 100
-        }
+        "name": "peachpuff",
+        "hue": 28,
+        "sat": 27,
+        "bri": 100
     },
     {
-        "wheat": {
-            "hue": 39,
-            "sat": 27,
-            "bri": 96
-        }
+        "name": "wheat",
+        "hue": 39,
+        "sat": 27,
+        "bri": 96
     },
     {
-        "darkgray": {
-            "hue": 0,
-            "sat": 0,
-            "bri": 66
-        }
+        "name": "darkgray",
+        "hue": 0,
+        "sat": 0,
+        "bri": 66
     },
     {
-        "greenyellow": {
-            "hue": 84,
-            "sat": 82,
-            "bri": 100
-        }
+        "name": "greenyellow",
+        "hue": 84,
+        "sat": 82,
+        "bri": 100
     },
     {
-        "maroon": {
-            "hue": 0,
-            "sat": 100,
-            "bri": 50
-        }
+        "name": "maroon",
+        "hue": 0,
+        "sat": 100,
+        "bri": 50
     },
     {
-        "peru": {
-            "hue": 30,
-            "sat": 69,
-            "bri": 80
-        }
+        "name": "peru",
+        "hue": 30,
+        "sat": 69,
+        "bri": 80
     },
     {
-        "white": {
-            "hue": 0,
-            "sat": 0,
-            "bri": 100
-        }
+        "name": "white",
+        "hue": 0,
+        "sat": 0,
+        "bri": 100
     },
     {
-        "darkgreen": {
-            "hue": 120,
-            "sat": 100,
-            "bri": 39
-        }
+        "name": "darkgreen",
+        "hue": 120,
+        "sat": 100,
+        "bri": 39
     },
     {
-        "honeydew": {
-            "hue": 120,
-            "sat": 6,
-            "bri": 100
-        }
+        "name": "honeydew",
+        "hue": 120,
+        "sat": 6,
+        "bri": 100
     },
     {
-        "mediumaquamarine": {
-            "hue": 160,
-            "sat": 50,
-            "bri": 80
-        }
+        "name": "mediumaquamarine",
+        "hue": 160,
+        "sat": 50,
+        "bri": 80
     },
     {
-        "pink": {
-            "hue": 350,
-            "sat": 25,
-            "bri": 100
-        }
+        "name": "pink",
+        "hue": 350,
+        "sat": 25,
+        "bri": 100
     },
     {
-        "whitesmoke": {
-            "hue": 0,
-            "sat": 0,
-            "bri": 96
-        }
+        "name": "whitesmoke",
+        "hue": 0,
+        "sat": 0,
+        "bri": 96
     },
     {
-        "darkkhaki": {
-            "hue": 56,
-            "sat": 43,
-            "bri": 74
-        }
+        "name": "darkkhaki",
+        "hue": 56,
+        "sat": 43,
+        "bri": 74
     },
     {
-        "hotpink": {
-            "hue": 330,
-            "sat": 59,
-            "bri": 100
-        }
+        "name": "hotpink",
+        "hue": 330,
+        "sat": 59,
+        "bri": 100
     },
     {
-        "mediumblue": {
-            "hue": 240,
-            "sat": 100,
-            "bri": 80
-        }
+        "name": "mediumblue",
+        "hue": 240,
+        "sat": 100,
+        "bri": 80
     },
     {
-        "plum": {
-            "hue": 300,
-            "sat": 28,
-            "bri": 87
-        }
+        "name": "plum",
+        "hue": 300,
+        "sat": 28,
+        "bri": 87
     },
     {
-        "yellow": {
-            "hue": 60,
-            "sat": 100,
-            "bri": 100
-        }
+        "name": "yellow",
+        "hue": 60,
+        "sat": 100,
+        "bri": 100
     },
     {
-        "darkmagenta": {
-            "hue": 300,
-            "sat": 100,
-            "bri": 55
-        }
+        "name": "darkmagenta",
+        "hue": 300,
+        "sat": 100,
+        "bri": 55
     },
     {
-        "indianred": {
-            "hue": 0,
-            "sat": 55,
-            "bri": 80
-        }
+        "name": "indianred",
+        "hue": 0,
+        "sat": 55,
+        "bri": 80
     },
     {
-        "mediumorchid": {
-            "hue": 288,
-            "sat": 60,
-            "bri": 83
-        }
+        "name": "mediumorchid",
+        "hue": 288,
+        "sat": 60,
+        "bri": 83
     },
     {
-        "powderblue": {
-            "hue": 187,
-            "sat": 23,
-            "bri": 90
-        }
+        "name": "powderblue",
+        "hue": 187,
+        "sat": 23,
+        "bri": 90
     },
     {
-        "yellowgreen": {
-            "hue": 80,
-            "sat": 76,
-            "bri": 80
-        }
+        "name": "yellowgreen",
+        "hue": 80,
+        "sat": 76,
+        "bri": 80
     }
 ]
