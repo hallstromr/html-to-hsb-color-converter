@@ -6,3 +6,6 @@ Some code to convert html color codes to hsb values
  
 #### colors.json ####
  - The output of the colors.py file.
+
+#### colors.cs ####
+ - Reads the json file and converts the colors to c# objects.
